@@ -24,7 +24,7 @@
 
 # Olá! Seja bem vindo a minha nova conta! 👋
 
-Estudante de Sistemas de Informação na PUC Minas e Estagiário de Infraestrutura de TI na TechBiz Forense Digital, com vivência prática na sustentação e otimização de ambientes corporativos. Minha atuação foca no suporte e gerenciamento de TI, incluindo a administração de identidades (Active Directory) e o gerenciamento de hardware (Servidores Dell/iDRAC), além de automação em implantação de sistemas operacionais usando Sysprep, Clonezilla e Rescuezilla.
+Estudante de Sistemas de Informação na PUC Minas e Estagiário de Tecnologia e Segurança da Informação na TechBiz Forense Digital, com vivência prática na sustentação e otimização de ambientes corporativos. Minha atuação foca no suporte e gerenciamento de TI, incluindo a administração de identidades (Active Directory) e o gerenciamento de hardware (Servidores Dell/iDRAC), além de automação em implantação de sistemas operacionais usando Sysprep, Clonezilla e Rescuezilla.
 
 Atualmente, direciono minha carreira e meus estudos para Cloud Computing e governança de TI. Tenho aprofundado meus conhecimentos em arquiteturas de nuvem, especialmente em AWS (VPC, IAM, Security Groups, FinOps), e estou em preparação ativa para certificações fundamentais do mercado: AWS Certified Cloud Practitioner, Microsoft Azure AZ-900 e ITIL 4 Foundation. 
 
